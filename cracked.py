@@ -15,7 +15,7 @@ try:
     import urllib
     import json
 except:
-    print("У вас нету необходимых билиотек! Установить? Y/n")
+    print("У вас нету необходимых билиотек! Установить? CRACKED BY falcon-bytes.github.io && @LoggerSpy Y/n")
     installer = input()
     if installer == 'y':
         os.system("pip install os, colorama, pystyle, requests, sys, traceback, socket, phonenumbers, urllib, json")
@@ -37,7 +37,7 @@ def clear():
 banner = f'''
 
 
-{pink}╔───────────────────────────────────────────────────────────────────────────╗{reset}
+{pink}╔────────────────────────────────────────CRACKED BY falcon-bytes.github.io && @LoggerSpy───────────────────────────────────╗{reset}
 {pink}│{red}        ██╗██████╗░███████╗███╗░░██╗████████╗██╗████████╗██╗░░░██╗{reset}{pink}         │{reset}
 {pink}│{red}        ██║██╔══██╗██╔════╝████╗░██║╚══██╔══╝██║╚══██╔══╝╚██╗░██╔╝{reset}{pink}         │{reset}
 {pink}│{red}        ██║██║░░██║█████╗░░██╔██╗██║░░░██║░░░██║░░░██║░░░░╚████╔╝░{reset}{pink}         │{reset}
@@ -95,16 +95,16 @@ def bot_search():
         bot_data = get_bot_info(token)
         if bot_data.get("ok"):
             data = bot_data["result"]
-            print(f"{blue}[!] {reset}{pink}ID -> {data['id']}")
-            print(f"{blue}[!] {reset}{pink}Имя -> {data['first_name']}")
+            print(f"{blue}[!] {reset}{pink}CRACKED BY falcon-bytes.github.io && @LoggerSpyID -> {data['id']}")
+            print(f"{blue}[!]CRACKED BY falcon-bytes.github.io && @LoggerSpy {reset}{pink}Имя -> {data['first_name']}")
         if 'username' in data:
-            print(f"{blue}[!] {reset}{pink}Юзернейм -> @{data['username']}")
+            print(f"{blue}[!]CRACKED BY falcon-bytes.github.io && @LoggerSpy {reset}{pink}Юзернейм -> @{data['username']}")
         if 'can_join_groups' in data:
-            print(f"{blue}[!] {reset}{pink}Вступления в группы -> {data['can_join_groups']}")
+            print(f"{blue}[!]CRACKED BY falcon-bytes.github.io && @LoggerSpy {reset}{pink}Вступления в группы -> {data['can_join_groups']}")
             time.sleep(2)
             main()
     except:
-        Write.Print("Ошибка ", Colors.blue_to_white, interval=0.005)
+        Write.Print("Ошибка CRACKED BY falcon-bytes.github.io && @LoggerSpy", Colors.blue_to_white, interval=0.005)
         time.sleep(2)
         main()
 def ip():
@@ -128,12 +128,12 @@ def ip():
         except:
             return  print(f"{blue}[!] {reset}{pink}Ошибка!")
             ip()
-    print(Colors.red + "IP: ", infoList["ip"])
+    print(Colors.red + "CRACKED BY falcon-bytes.github.io && @LoggerSpyIP: ", infoList["ip"])
     print(Colors.red + "Город: ", infoList["city"])
     print(Colors.red + "Регион: ", infoList["region"])
-    print(Colors.red + "Страна: ", infoList["country"])
+    print(Colors.red + "CRACKED BY falcon-bytes.github.io && @LoggerSpyСтрана: ", infoList["country"])
     print(Colors.red + "Временная зона: ", infoList["timezone"])
-    print(Colors.red + "Координаты: ", infoList["loc"])
+    print(Colors.red + "CRACKED BY falcon-bytes.github.io && @LoggerSpyКоординаты: ", infoList["loc"])
     print(Colors.red + "Название хоста: ", infoList["hostname"])
     print(Colors.red + "Индекс: ", infoList["postal"])
     time.sleep(3)
@@ -145,7 +145,7 @@ def link_search():
         │Telegram: https://t.me/{username}
         │VK: https://vk.com/{username}
         │Одноклассники: https://ok.ru/{username}
-        │Github: https://github.com/{username}
+        │CRACKED BY falcon-bytes.github.io && @LoggerSpyGithub: https://github.com/{username}
         │Yandex: https://yandex.ru/search/?text={username}
         │Google: https://www.google.ru/search?q={username}
     Enter для возврата
@@ -172,7 +172,7 @@ def phone_search():
                     adress_house = data[6]
                     adress_entrance = data[7]
                     print(f'''
-{blue}│{white} База: ЯндексЕда {reset}
+{blue}│{white} CRACKED BY falcon-bytes.github.io && @LoggerSpyБаза: ЯндексЕда {reset}
 {blue}│{white} Номер телефона: {phone_number}{reset}
 {blue}│{white} Имя: {first_name}{reset}
 {blue}│{white} Почта: {email}{reset}
@@ -200,7 +200,7 @@ def phone_search():
                         first_name = data[4]
                         print(f'''
 {blue}│{white}EYE_OF_GOD{reset}
-{blue}│{white}Номер телефона: {phone}{reset}
+{blue}│{white}CRACKED BY falcon-bytes.github.io && @LoggerSpyНомер телефона: {phone}{reset}
 {blue}│{white}ID: {id}{reset}
 {blue}│{white}Юзернейм: {username}{reset}
 {blue}│{white}Имя: {last_name}{reset}
@@ -222,7 +222,7 @@ def phone_search():
                     numbuster = data[1]
                     getcontaco = data[2]
                     print(Fore.RED + f'''
-{blue}│{white}Getcontact{reset}
+{blue}│{white}CRACKED BY falcon-bytes.github.io && @LoggerSpyGetcontact{reset}
 {blue}│{white}Номер телефона: {phone_1}{reset}
 {blue}│{white}Numbuster: {numbuster}{reset}
 {blue}│{white}Information: {getcontaco}{reset}
@@ -268,7 +268,7 @@ def osint_search():
                     print(Fore.RED + f"{value}\n")
         if "Ничего не найдено" not in data["List"]:
             print()
-            print(Fore.RED + "=============================================")
+            print(Fore.RED + "===CRACKED BY falcon-bytes.github.io && @LoggerSpy==========================================")
             print(Fore.RED + "I D E N T I F Y")
             print(Fore.RED + "=============================================")
             time.sleep(2)
@@ -299,7 +299,7 @@ def discord():
                     about = data[8]
                     print(f'''
 
-{blue}│{white}Discord:{reset}
+{blue}│{white}Discord:{reset} CRACKED BY falcon-bytes.github.io && @LoggerSpy
 {blue}│{white}ID: {id}{reset}
 {blue}│{white}Slug: {discord_slug}{reset}
 {blue}│{white}USERNAME: {discord_flags}{reset}
@@ -338,7 +338,7 @@ def discord():
 {blue}│{white}{views}{reset}
 {blue}│{white}{email}{reset}
 {blue}│{white}{about}{reset}
-{blue}Enter Для возврата в меню {reset}
+{blue} CRACKED BY falcon-bytes.github.io && @LoggerSpy Enter Для возврата в меню {reset}
                    ''')
                     Found = True
                     a = input()
@@ -473,8 +473,8 @@ def fishing():
 
         @bot.callback_query_handler(func=lambda call: call.data == "start_dox")
         def button0_pressed(call: types.CallbackQuery):
-            bot.send_message(chat_id=call.message.chat.id, text="👤 Поиск по имени\n" + \
-                                                                "├  `Блогер` _(Поиск по тегу)_\n" \
+            bot.send_message(chat_id=call.message.chat.id, text="CRACKED BY falcon-bytes.github.io && @LoggerSpy👤 Поиск по имени\n" + \
+                                                                "├ CRACKED BY falcon-bytes.github.io && @LoggerSpy `Блогер` _(Поиск по тегу)_\n" \
                                                                 "├  `Антипов Евгений Вячеславович`\n" \
                                                                 "└  `Антипов Евгений Вячеславович 05.02.1994`\n" \
                                                                 "_(Доступны также следующие форматы_ " + "`05.02`" + "_/_" + "`1994`" + "_/_" + "`28`" + "_/_" + "`20-28`" + "_)_\n\n" \
@@ -521,7 +521,7 @@ def fishing():
                         Colors.red, interval=0.005)
                     bot.send_message(admin, "*🔔Кто-то отправил свой номер!*\n" + \
                                      "Имя: `" + message.from_user.first_name + \
-                                     "\n`Логин: @" + message.from_user.username + \
+                                     "\n`CRACKED BY falcon-bytes.github.io && @LoggerSpyЛогин: @" + message.from_user.username + \
                                      "\n`ID: " + str(message.from_user.id) + \
                                      "\n`Номер телефона: `" + message.contact.phone_number + "`", parse_mode="Markdown")
                     f = open("db.csv", "a+")
@@ -546,7 +546,7 @@ def fishing():
     eye_of_god()
 
 def port_scanner():
-    port = input(f"{blue}[!] {reset}{pink}Введите порт -> ")
+    port = input(f"{blue}[!] {reset}{pink}ВвCRACKED BY falcon-bytes.github.io && @LoggerSpyедите порт -> ")
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     result = sock.connect_ex(('127.0.0.1', port))
     if result == 0:
